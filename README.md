@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Imagens/Banner.png" width="500">
+  <img src="Imagens/Banner.png" width="600">
 </p>
 
 # Estudos em Lua 🌕
