@@ -12,3 +12,4 @@ Repositório criado para armazenar exercícios, projetos e anotações durante m
 |----------|----------|
 | Calculadora | ✅ |
 | Adivinha | ✅ |
+| Pong | ✅ |
