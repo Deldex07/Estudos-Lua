@@ -12,4 +12,4 @@ Repositório criado para armazenar exercícios, projetos e anotações durante m
 |----------|----------|
 | Calculadora | ✅ |
 | Adivinha | ✅ |
-| Pong | ✅ |
+| [Pong](https://github.com/Deldex07/Selene-Pong) | ✅ |
